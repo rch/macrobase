@@ -52,7 +52,7 @@ public class MacroBaseDefaults {
 
     public static final String DB_USER = System.getProperty("user.name");
     public static final String DB_PASSWORD = "";
-    public static final String DB_NAME = "postgres";
+    public static final String DB_NAME = "macrobase";
     public static final String DB_URL = "localhost";
     public static final Integer DB_CACHE_CHUNK_SIZE = 1000000;
 
