@@ -4,13 +4,13 @@
   <groupId>edu.stanford.futuredata</groupId>
   <artifactId>macrobase-legacy</artifactId>
   <packaging>jar</packaging>
-  <version>0.1-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <name>macrobase-legacy</name>
   <url>http://maven.apache.org</url>
     <parent>
         <groupId>edu.stanford.futuredata</groupId>
         <artifactId>macrobase</artifactId>
-        <version>0.1-SNAPSHOT</version>
+        <version>1.0-SNAPSHOT</version>
     </parent>
 
     <dependencies>
